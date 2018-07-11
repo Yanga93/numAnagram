@@ -65,5 +65,4 @@ $r = 3;
 $n = sizeof($arr);
 printCombination($arr, $n, $r);
 
-// This code is contributed by ajit
 ?>
